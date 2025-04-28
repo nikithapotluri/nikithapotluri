@@ -34,8 +34,6 @@
 - **Programming:** C, C++
 - **Core Concepts:** Data Structures, Algorithms, OOPs
 
-📚 I have uploaded **full-stack web applications** and **academic mini-projects**.
-
 ---
 
 ## ✨ Portfolio
