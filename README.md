@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Nikitha!
 
-[![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-purple?style=for-the-badge&logo=vercel&logoColor=white)](https://nikithapotluri.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikithapotluri)
-[![Gmail](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikithapotluri17@gmail.com)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-purple?style=for-the-badge&logo=vercel&logoColor=white)](https://nikithapotluri.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikithapotluri)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikithapotluri17@gmail.com)
 
 ---
 
@@ -61,4 +61,5 @@ Feel free to connect, collaborate, or just say hi! 🌟
 I'm always open to discussing **new opportunities** and **innovative ideas**.
 
 ---
-⭐ Thanks for visiting! Stay awesome!
+Thanks for visiting my profile!  
+I'm always open to collaborating on innovative ideas or projects that can create a real-world impact. ⭐
