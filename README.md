@@ -46,7 +46,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikithapotluri&show_icons=true&theme=react&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikithapotluri&theme=react&hide_border=true" width="48%" />
 </p>
 
