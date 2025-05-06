@@ -55,9 +55,5 @@
 
 ## 🤝 Let's Connect!
 
-Feel free to connect, collaborate, or just say hi! 🌟  
-I'm always open to discussing **new opportunities** and **innovative ideas**.
-
----
 Thanks for visiting my profile!  
-I'm always open to collaborating on innovative ideas or projects that can create a real-world impact. ⭐
+I'm always open to discussing **new opportunities** and **collaborating** on innovative ideas or projects that can create a real-world impact. ⭐
