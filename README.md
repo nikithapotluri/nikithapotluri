@@ -56,4 +56,4 @@
 ## 🤝 Let's Connect!
 
 Thanks for visiting my profile!  
-I'm always open to discussing **new opportunities** and **collaborating** on innovative ideas or projects that can create a real-world impact. ⭐
+I'm always open to discussing **new opportunities** and **collaborating** on innovative ideas or projects that can create a real-world impact.
