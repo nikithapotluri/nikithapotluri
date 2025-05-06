@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 ✨ A passionate B.Tech Computer Science and Engineering student who loves **bringing ideas to life with code**.  
 🚀 I'm passionate about building user-centric products, solving real-world problems, and exploring new technologies.  
-💡 Interests: **Artificial Intelligence**, **Web Development**, and designing systems that make everyday tasks smoother.
+💡 Interests: **Artificial Intelligence**, **Web Development** and designing systems that make everyday tasks smoother.
 
 ---
 
@@ -37,7 +37,7 @@
 ---
 
 ## ✨ Portfolio
-🔗 [🌐 Visit My Website](https://nikithapotluri.vercel.app/)
+🔗 [![Portfolio](https://img.shields.io/badge/My_Website-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://nikithapotluri.vercel.app/)
 
 ---
 
