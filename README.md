@@ -37,7 +37,7 @@
 ---
 
 ## ✨ Portfolio
-🔗 [![Portfolio](https://img.shields.io/badge/My_Website-green?style=for-the-badge&logo=vercel&logoColor=white)](https://nikithapotluri.vercel.app/)
+🔗 [![Portfolio](https://img.shields.io/badge/My_Website-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://nikithapotluri.vercel.app/)
 
 ---
 
