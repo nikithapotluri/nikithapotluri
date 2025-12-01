@@ -41,7 +41,12 @@ Interested in **Artificial Intelligence**, **Web Development**, and building imp
 
 [![CodeChef Profile](https://img.shields.io/badge/CodeChef-nikitha1710-brown?style=flat-square&logo=codechef)](https://www.codechef.com/users/nikitha1710)
 
+<!-- current rating (live from shields.io -> codechef/rating) -->
 ![CodeChef Rating](https://img.shields.io/codechef/rating/nikitha1710?style=flat-square)
+
+<!-- highest rating (attempt via shields custom message if you compute it externally) -->
+![CodeChef Highest Rating](https://img.shields.io/badge/Highest_Rating--?style=flat-square&logo=codechef)
+
 
 
 ---
@@ -52,11 +57,6 @@ Interested in **Artificial Intelligence**, **Web Development**, and building imp
 - **Database:** MongoDB  
 - **Programming:** C, C++, Java  
 - **Core Concepts:** Data Structures & Algorithms, OOPs, DBMS  
-
----
-
-## ✨ Portfolio  
-🔗 [![Portfolio](https://img.shields.io/badge/My_Website-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://nikithapotluri.vercel.app/)
 
 ---
 
