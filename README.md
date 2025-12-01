@@ -6,13 +6,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 A passionate B.Tech Computer Science and Engineering student who loves **bringing ideas to life with code**.  
 Interested in **Artificial Intelligence**, **Web Development**, and building impactful solutions.
 
 ---
 
-## 🔥 Tech Stack
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -27,7 +27,7 @@ Interested in **Artificial Intelligence**, **Web Development**, and building imp
 
 ---
 
-## 🏗️ What I Build
+## What I Build
 - **Frontend:** React.js, HTML, CSS, Bootstrap  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
@@ -36,7 +36,7 @@ Interested in **Artificial Intelligence**, **Web Development**, and building imp
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikithapotluri&theme=react&hide_border=true" width="48%" />
