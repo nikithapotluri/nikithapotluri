@@ -27,26 +27,13 @@ Interested in **Artificial Intelligence**, **Web Development**, and building imp
 
 ---
 
-## 🏆 Competitive Programming Badges
+## 🏆 Coding Progress
 
 ### **LeetCode**
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Nikitha_Potluri-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/nikitha_1710/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/nikitha_1710?theme=dark&font=Karma&ext=heatmap)
-
----
-
-### **CodeChef**
-
-[![CodeChef Profile](https://img.shields.io/badge/CodeChef-nikitha1710-brown?style=flat-square&logo=codechef)](https://www.codechef.com/users/nikitha1710)
-
-<!-- current rating (live from shields.io -> codechef/rating) -->
-![CodeChef Rating](https://img.shields.io/codechef/rating/nikitha1710?style=flat-square)
-
-<!-- highest rating (attempt via shields custom message if you compute it externally) -->
-![CodeChef Highest Rating](https://img.shields.io/badge/Highest_Rating--?style=flat-square&logo=codechef)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/nikitha_1710?theme=dark&font=Karma)
 
 
 ---
