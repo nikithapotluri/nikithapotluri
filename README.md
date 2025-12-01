@@ -33,15 +33,15 @@ Interested in **Artificial Intelligence**, **Web Development**, and building imp
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Nikitha_Potluri-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/nikitha_1710/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/nikithapotluri?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/nikitha_1710?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
 ### **CodeChef**
 
-[![CodeChef Profile](https://img.shields.io/badge/CodeChef-NikithaPotluri-brown?style=flat-square&logo=codechef)](https://www.codechef.com/users/nikitha1710)
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-Nikitha_1710-brown?style=flat-square&logo=codechef)](https://www.codechef.com/users/nikitha1710)
 
-![CodeChef Rating](https://img.shields.io/codechef/rating/nikithapotluri?style=flat-square)
+![CodeChef Rating](https://img.shields.io/codechef/rating/nikitha1710?style=flat-square)
 
 ---
 
