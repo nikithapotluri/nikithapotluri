@@ -27,22 +27,6 @@ Interested in **Artificial Intelligence**, **Web Development**, and building imp
 
 ---
 
-## 🏆 Coding Progress
-
-### **LeetCode**
-
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-nikitha__1710-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/nikitha_1710/)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/nikitha_1710?theme=dark&font=Karma)
-
-![LeetCode Solved](https://leetcard.jacoblin.cool/nikitha_1710?ext=solved&theme=dark)
-
-![LeetCode Contest](https://leetcard.jacoblin.cool/nikitha_1710?ext=contest&theme=dark)
-
-
-
----
-
 ## 🏗️ What I Build
 - **Frontend:** React.js, HTML, CSS, Bootstrap  
 - **Backend:** Node.js, Express.js  
