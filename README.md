@@ -7,9 +7,8 @@
 ---
 
 ## 🧑‍💻 About Me
-✨ A passionate B.Tech Computer Science and Engineering student who loves **bringing ideas to life with code**.  
-🚀 I'm passionate about building user-centric products, solving real-world problems, and exploring new technologies.  
-💡 Interests: **Artificial Intelligence**, **Web Development** and designing systems that make everyday tasks smoother.
+A passionate B.Tech Computer Science and Engineering student who loves **bringing ideas to life with code**.  
+Interested in **Artificial Intelligence**, **Web Development**, and building impactful solutions.
 
 ---
 
@@ -24,19 +23,38 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cpp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+---
+
+## 🏆 Competitive Programming Badges
+
+### **LeetCode**
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Nikitha_Potluri-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/nikitha_1710/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/nikithapotluri?theme=dark&font=Karma&ext=heatmap)
+
+---
+
+### **CodeChef**
+
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-NikithaPotluri-brown?style=flat-square&logo=codechef)](https://www.codechef.com/users/nikitha1710)
+
+![CodeChef Rating](https://img.shields.io/codechef/rating/nikithapotluri?style=flat-square)
 
 ---
 
 ## 🏗️ What I Build
-- **Frontend:** React.js, HTML, CSS, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Programming:** C, C++
-- **Core Concepts:** Data Structures, Algorithms, OOPs
+- **Frontend:** React.js, HTML, CSS, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Programming:** C, C++, Java  
+- **Core Concepts:** Data Structures & Algorithms, OOPs, DBMS  
 
 ---
 
-## ✨ Portfolio
+## ✨ Portfolio  
 🔗 [![Portfolio](https://img.shields.io/badge/My_Website-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://nikithapotluri.vercel.app/)
 
 ---
@@ -56,4 +74,4 @@
 ## 🤝 Let's Connect!
 
 Thanks for visiting my profile!  
-I'm always open to discussing **new opportunities** and **collaborating** on innovative ideas or projects that can create a real-world impact.
+Always open to **opportunities**, **collaborations**, and building something meaningful together.
