@@ -39,9 +39,10 @@ Interested in **Artificial Intelligence**, **Web Development**, and building imp
 
 ### **CodeChef**
 
-[![CodeChef Profile](https://img.shields.io/badge/CodeChef-Nikitha_1710-brown?style=flat-square&logo=codechef)](https://www.codechef.com/users/nikitha1710)
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-nikitha1710-brown?style=flat-square&logo=codechef)](https://www.codechef.com/users/nikitha1710)
 
 ![CodeChef Rating](https://img.shields.io/codechef/rating/nikitha1710?style=flat-square)
+
 
 ---
 
